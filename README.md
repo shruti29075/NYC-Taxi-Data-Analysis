@@ -53,6 +53,6 @@ Each dataset contains:
 
 ##Run the code
 
-python3 jan.py
+jupyter notebook- jan.py
 
 ---
